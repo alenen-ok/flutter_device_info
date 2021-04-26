@@ -1,4 +1,4 @@
-name: device_info
+name: package_device_info
 description: Flutter plugin providing detailed information about the device
   (make, model, etc.), and Android or iOS version the app is running on.
 version: 2.0.0
@@ -19,7 +19,7 @@ dependencies:
   package_device_info_platform_interface:
     git:
       url: git://github.com/alenen-ok/flutter_device_info.git
-      path: flutter_device_info/device_info_platform_interface-2.0.1
+      path: device_info_platform_interface-2.0.1
 dev_dependencies:
   test: ^1.16.3
   flutter_test:
