@@ -1,4 +1,4 @@
-name: package_device_info_platform_interface:
+name: package_device_info_platform_interface
 description: A common platform interface for the device_info plugin.
 # NOTE: We strongly prefer non-breaking changes, even at the expense of a
 # less-clean API. See https://flutter.dev/go/platform-interface-breaking-changes
